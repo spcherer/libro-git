@@ -1,1 +1,2 @@
 1.  Chocan, S. and Straub, B. Pro Git. Apress.
+edited master
